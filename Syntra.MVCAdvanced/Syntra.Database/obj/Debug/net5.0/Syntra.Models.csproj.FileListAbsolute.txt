@@ -1,0 +1,12 @@
+E:\code\Syntra.MVCAdvanced\Syntra.Database\bin\Debug\net5.0\Syntra.Models.deps.json
+E:\code\Syntra.MVCAdvanced\Syntra.Database\bin\Debug\net5.0\Syntra.Models.dll
+E:\code\Syntra.MVCAdvanced\Syntra.Database\bin\Debug\net5.0\ref\Syntra.Models.dll
+E:\code\Syntra.MVCAdvanced\Syntra.Database\bin\Debug\net5.0\Syntra.Models.pdb
+E:\code\Syntra.MVCAdvanced\Syntra.Database\obj\Debug\net5.0\Syntra.Models.csprojAssemblyReference.cache
+E:\code\Syntra.MVCAdvanced\Syntra.Database\obj\Debug\net5.0\Syntra.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\code\Syntra.MVCAdvanced\Syntra.Database\obj\Debug\net5.0\Syntra.Models.AssemblyInfoInputs.cache
+E:\code\Syntra.MVCAdvanced\Syntra.Database\obj\Debug\net5.0\Syntra.Models.AssemblyInfo.cs
+E:\code\Syntra.MVCAdvanced\Syntra.Database\obj\Debug\net5.0\Syntra.Models.csproj.CoreCompileInputs.cache
+E:\code\Syntra.MVCAdvanced\Syntra.Database\obj\Debug\net5.0\Syntra.Models.dll
+E:\code\Syntra.MVCAdvanced\Syntra.Database\obj\Debug\net5.0\ref\Syntra.Models.dll
+E:\code\Syntra.MVCAdvanced\Syntra.Database\obj\Debug\net5.0\Syntra.Models.pdb
