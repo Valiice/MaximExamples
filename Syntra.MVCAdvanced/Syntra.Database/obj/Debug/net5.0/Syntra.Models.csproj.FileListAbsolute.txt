@@ -10,3 +10,15 @@ E:\code\Syntra.MVCAdvanced\Syntra.Database\obj\Debug\net5.0\Syntra.Models.csproj
 E:\code\Syntra.MVCAdvanced\Syntra.Database\obj\Debug\net5.0\Syntra.Models.dll
 E:\code\Syntra.MVCAdvanced\Syntra.Database\obj\Debug\net5.0\ref\Syntra.Models.dll
 E:\code\Syntra.MVCAdvanced\Syntra.Database\obj\Debug\net5.0\Syntra.Models.pdb
+B:\Downloads\Coding\SchoolGit\ForkExample3Maxim\MaximExamples\Syntra.MVCAdvanced\Syntra.Database\bin\Debug\net5.0\Syntra.Models.deps.json
+B:\Downloads\Coding\SchoolGit\ForkExample3Maxim\MaximExamples\Syntra.MVCAdvanced\Syntra.Database\bin\Debug\net5.0\Syntra.Models.dll
+B:\Downloads\Coding\SchoolGit\ForkExample3Maxim\MaximExamples\Syntra.MVCAdvanced\Syntra.Database\bin\Debug\net5.0\ref\Syntra.Models.dll
+B:\Downloads\Coding\SchoolGit\ForkExample3Maxim\MaximExamples\Syntra.MVCAdvanced\Syntra.Database\bin\Debug\net5.0\Syntra.Models.pdb
+B:\Downloads\Coding\SchoolGit\ForkExample3Maxim\MaximExamples\Syntra.MVCAdvanced\Syntra.Database\obj\Debug\net5.0\Syntra.Models.csprojAssemblyReference.cache
+B:\Downloads\Coding\SchoolGit\ForkExample3Maxim\MaximExamples\Syntra.MVCAdvanced\Syntra.Database\obj\Debug\net5.0\Syntra.Models.GeneratedMSBuildEditorConfig.editorconfig
+B:\Downloads\Coding\SchoolGit\ForkExample3Maxim\MaximExamples\Syntra.MVCAdvanced\Syntra.Database\obj\Debug\net5.0\Syntra.Models.AssemblyInfoInputs.cache
+B:\Downloads\Coding\SchoolGit\ForkExample3Maxim\MaximExamples\Syntra.MVCAdvanced\Syntra.Database\obj\Debug\net5.0\Syntra.Models.AssemblyInfo.cs
+B:\Downloads\Coding\SchoolGit\ForkExample3Maxim\MaximExamples\Syntra.MVCAdvanced\Syntra.Database\obj\Debug\net5.0\Syntra.Models.csproj.CoreCompileInputs.cache
+B:\Downloads\Coding\SchoolGit\ForkExample3Maxim\MaximExamples\Syntra.MVCAdvanced\Syntra.Database\obj\Debug\net5.0\Syntra.Models.dll
+B:\Downloads\Coding\SchoolGit\ForkExample3Maxim\MaximExamples\Syntra.MVCAdvanced\Syntra.Database\obj\Debug\net5.0\ref\Syntra.Models.dll
+B:\Downloads\Coding\SchoolGit\ForkExample3Maxim\MaximExamples\Syntra.MVCAdvanced\Syntra.Database\obj\Debug\net5.0\Syntra.Models.pdb

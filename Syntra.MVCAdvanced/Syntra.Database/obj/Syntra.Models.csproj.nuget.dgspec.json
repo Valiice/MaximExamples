@@ -1,33 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "E:\\code\\Syntra.MVCAdvanced\\Syntra.Database\\Syntra.Models.csproj": {}
+    "B:\\Downloads\\Coding\\SchoolGit\\ForkExample3Maxim\\MaximExamples\\Syntra.MVCAdvanced\\Syntra.Database\\Syntra.Models.csproj": {}
   },
   "projects": {
-    "E:\\code\\Syntra.MVCAdvanced\\Syntra.Database\\Syntra.Models.csproj": {
+    "B:\\Downloads\\Coding\\SchoolGit\\ForkExample3Maxim\\MaximExamples\\Syntra.MVCAdvanced\\Syntra.Database\\Syntra.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\code\\Syntra.MVCAdvanced\\Syntra.Database\\Syntra.Models.csproj",
+        "projectUniqueName": "B:\\Downloads\\Coding\\SchoolGit\\ForkExample3Maxim\\MaximExamples\\Syntra.MVCAdvanced\\Syntra.Database\\Syntra.Models.csproj",
         "projectName": "Syntra.Models",
-        "projectPath": "E:\\code\\Syntra.MVCAdvanced\\Syntra.Database\\Syntra.Models.csproj",
-        "packagesPath": "C:\\Users\\Maxim-Local\\.nuget\\packages\\",
-        "outputPath": "E:\\code\\Syntra.MVCAdvanced\\Syntra.Database\\obj\\",
+        "projectPath": "B:\\Downloads\\Coding\\SchoolGit\\ForkExample3Maxim\\MaximExamples\\Syntra.MVCAdvanced\\Syntra.Database\\Syntra.Models.csproj",
+        "packagesPath": "C:\\Users\\valen\\.nuget\\packages\\",
+        "outputPath": "B:\\Downloads\\Coding\\SchoolGit\\ForkExample3Maxim\\MaximExamples\\Syntra.MVCAdvanced\\Syntra.Database\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Maxim-Local\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\valen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://craxitbvba.pkgs.visualstudio.com/_packaging/CraxModulesFeed/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
@@ -59,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }
