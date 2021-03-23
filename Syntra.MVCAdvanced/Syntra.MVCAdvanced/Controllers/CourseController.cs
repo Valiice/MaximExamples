@@ -84,7 +84,7 @@ namespace Syntra.MVCAdvanced.Controllers
         }
         public IActionResult Create()
         {
-            var listOfDropDowns = (_courseDbService.TeacherGet());
+            var listOfDropDowns = _courseDbService.TeacherGet();
             ViewBag.ListofTeachers = listOfDropDowns[0];
             ViewBag.ListofLocations = listOfDropDowns[1];
             return View();
