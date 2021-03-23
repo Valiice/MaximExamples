@@ -320,3 +320,8 @@ B:\Downloads\Coding\SchoolGit\ForkExample3Maxim\MaximExamples\Syntra.MVCAdvanced
 B:\Downloads\Coding\SchoolGit\ForkExample3Maxim\MaximExamples\Syntra.MVCAdvanced\Syntra.MVCAdvanced\obj\Debug\net5.0\Razor\Views\Location\Details.cshtml.g.cs
 B:\Downloads\Coding\SchoolGit\ForkExample3Maxim\MaximExamples\Syntra.MVCAdvanced\Syntra.MVCAdvanced\obj\Debug\net5.0\Razor\Views\Location\Edit.cshtml.g.cs
 B:\Downloads\Coding\SchoolGit\ForkExample3Maxim\MaximExamples\Syntra.MVCAdvanced\Syntra.MVCAdvanced\obj\Debug\net5.0\Razor\Views\Location\Index.cshtml.g.cs
+B:\Downloads\Coding\SchoolGit\ForkExample3Maxim\MaximExamples\Syntra.MVCAdvanced\Syntra.MVCAdvanced\obj\Debug\net5.0\Razor\Views\Course\Create.cshtml.g.cs
+B:\Downloads\Coding\SchoolGit\ForkExample3Maxim\MaximExamples\Syntra.MVCAdvanced\Syntra.MVCAdvanced\obj\Debug\net5.0\Razor\Views\Course\Delete.cshtml.g.cs
+B:\Downloads\Coding\SchoolGit\ForkExample3Maxim\MaximExamples\Syntra.MVCAdvanced\Syntra.MVCAdvanced\obj\Debug\net5.0\Razor\Views\Course\Details.cshtml.g.cs
+B:\Downloads\Coding\SchoolGit\ForkExample3Maxim\MaximExamples\Syntra.MVCAdvanced\Syntra.MVCAdvanced\obj\Debug\net5.0\Razor\Views\Course\Edit.cshtml.g.cs
+B:\Downloads\Coding\SchoolGit\ForkExample3Maxim\MaximExamples\Syntra.MVCAdvanced\Syntra.MVCAdvanced\obj\Debug\net5.0\Razor\Views\Course\Index.cshtml.g.cs

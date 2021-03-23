@@ -44,6 +44,23 @@ namespace Syntra.MVCAdvanced.DB
                     context.Add(location2);
                     context.SaveChanges();
                 }
+                if (context.Courses.Count() == 0)
+                {
+                    var course1 = new Course();
+                    course1.Name = "randomNaam";
+                    //course1.DateTime;
+                    course1.TeacherId = 1;
+                    course1.LocationId = 2;
+                    var course2 = new Course();
+                    course1.Name = "EenAndereNaam";
+                    //course1.DateTime;
+                    course1.TeacherId = 2;
+                    course1.LocationId = 1;
+
+                    context.Add(course1);
+                    context.Add(course2);
+                    context.SaveChanges();
+                }
             }
         }
     }
