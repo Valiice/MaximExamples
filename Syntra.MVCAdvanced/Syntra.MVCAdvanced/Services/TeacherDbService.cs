@@ -33,7 +33,7 @@ namespace Syntra.MVCAdvanced.Services
                 return allTeachers;
             }
             else
-                throw new KeyNotFoundException("The teacher doesn't exist");
+                throw new KeyNotFoundException("The teachers don't exist");
         }
         public async Task<Teacher> CreateAsync(Teacher teacherToCreate)
         {

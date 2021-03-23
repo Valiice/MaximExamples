@@ -315,3 +315,8 @@ B:\Downloads\Coding\SchoolGit\ForkExample3Maxim\MaximExamples\Syntra.MVCAdvanced
 B:\Downloads\Coding\SchoolGit\ForkExample3Maxim\MaximExamples\Syntra.MVCAdvanced\Syntra.MVCAdvanced\obj\Debug\net5.0\Syntra.MVCAdvanced.csproj.CopyComplete
 B:\Downloads\Coding\SchoolGit\ForkExample3Maxim\MaximExamples\Syntra.MVCAdvanced\Syntra.MVCAdvanced\obj\Debug\net5.0\Syntra.MVCAdvanced.genruntimeconfig.cache
 B:\Downloads\Coding\SchoolGit\ForkExample3Maxim\MaximExamples\Syntra.MVCAdvanced\Syntra.MVCAdvanced\obj\Debug\net5.0\Razor\Views\Teacher\Index.cshtml.g.cs
+B:\Downloads\Coding\SchoolGit\ForkExample3Maxim\MaximExamples\Syntra.MVCAdvanced\Syntra.MVCAdvanced\obj\Debug\net5.0\Razor\Views\Location\Create.cshtml.g.cs
+B:\Downloads\Coding\SchoolGit\ForkExample3Maxim\MaximExamples\Syntra.MVCAdvanced\Syntra.MVCAdvanced\obj\Debug\net5.0\Razor\Views\Location\Delete.cshtml.g.cs
+B:\Downloads\Coding\SchoolGit\ForkExample3Maxim\MaximExamples\Syntra.MVCAdvanced\Syntra.MVCAdvanced\obj\Debug\net5.0\Razor\Views\Location\Details.cshtml.g.cs
+B:\Downloads\Coding\SchoolGit\ForkExample3Maxim\MaximExamples\Syntra.MVCAdvanced\Syntra.MVCAdvanced\obj\Debug\net5.0\Razor\Views\Location\Edit.cshtml.g.cs
+B:\Downloads\Coding\SchoolGit\ForkExample3Maxim\MaximExamples\Syntra.MVCAdvanced\Syntra.MVCAdvanced\obj\Debug\net5.0\Razor\Views\Location\Index.cshtml.g.cs
